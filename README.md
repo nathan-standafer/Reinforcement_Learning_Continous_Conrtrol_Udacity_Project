@@ -1,5 +1,7 @@
 ## Reinforcement_Learning_Continous_Control_Udacity_Project
 
+![](https://github.com/nathan-standafer/Reinforcement_Learning_Continous_Conrtrol_Udacity_Project/raw/master/data/reacher.gif)
+
 ### Project Details
 
 This is a Deep Reinforcement Learning project that utilizes a Deep Deterministic Policy Gradient (DDPG) algorithim to control a double-jointed arm can move to a target location.  Actions performed upon the enviroment are continuout (not discrete).  The DDPG algorithim works when used against a continuous action space, whereas other Actor-Critic reinforcement learning are only useful when used in discrete action spaces.
