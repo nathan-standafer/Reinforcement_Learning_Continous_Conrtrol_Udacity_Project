@@ -14,10 +14,9 @@ The enviroment allows for controlling 1 arm or 20 arms.  I chose to train using 
 Additional information on the environment can be found [here](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher).  Additional setup information can be found [here](https://github.com/udacity/deep-reinforcement-learning#dependencies)
 
 ### Getting Started
-
 The project runs as a Python 3.7 jupyter notebook.  Dependencies can be found in the repository's python/requirements.txt file.  
 
-
 ## Instructions
-
 Refer to the README file about how to run the code in this repository.
+
+![](https://github.com/nathan-standafer/Reinforcement_Learning_Continous_Conrtrol_Udacity_Project/raw/master/data/Continuous%20Control%20Training%20(score%20vs.%20epoch).png)
